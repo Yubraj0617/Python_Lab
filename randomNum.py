@@ -1,4 +1,3 @@
 import random
-
 random_num=random.randint(1,100)
-print(random_num);
+print("Generated number is: ",random_num);
